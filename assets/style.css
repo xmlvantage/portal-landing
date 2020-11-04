@@ -1,0 +1,42 @@
+.navbar{
+    margin:5px ;
+    background-image: url(./ihs-logo2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    opacity: 88px;
+    
+}
+.container{
+    padding: 20px;
+}
+.title{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    height:150px;
+    width: 360px;
+}
+i.fas{
+    padding:10px;
+}
+
+.rgt-btn button{
+    background-color: #3D6B72 ;
+    color: #f0f0f0 !important;
+    border:1px;
+    padding: 10px 24px;
+    display:block;
+
+}
+.rgt-btn:not(:last-child){
+   border-bottom:none ; 
+}
+.navbar-toggler{
+    background-color: black;
+   
+}
+.nav-link{
+    color: black;
+}
